@@ -1,34 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+You can view the project [here](https://restaurant-app-tugbagundogdu.vercel.app) <br><br>
+![Ekran Görüntüsü (400)](https://github.com/Tugbagundogdu/pizza-rest/assets/78304413/18ee191c-9f17-4676-a043-ec0820286c66) <br><br>
+![Ekran Görüntüsü (399)](https://github.com/Tugbagundogdu/pizza-rest/assets/78304413/1e4920ec-a114-4ab3-bad5-ea99f9c545d5) <br> <br>
+![Ekran Görüntüsü (398)](https://github.com/Tugbagundogdu/pizza-rest/assets/78304413/b9a90009-eb01-4725-a17a-427e0543f1e1)
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
