@@ -23,11 +23,3 @@ Check out the live demo of the website [here](https://restaurant-app-tugbagundog
 2. Navigate to the project directory and install the required dependencies using `npm install` or `yarn install`.
 3. Use `npm start` or `yarn start` to run the development server and view the website in your browser.
 4. To build the application for production, use `npm run build` or `yarn build`.
-
-## Contributing
-
-We welcome contributions from the community to enhance the pizza ordering experience. If you find any issues or want to add new features, feel free to create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
